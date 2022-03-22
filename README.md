@@ -1,2 +1,2 @@
 # Simple Database for an University
-Database
+Database implementation with a step by step database design document.
